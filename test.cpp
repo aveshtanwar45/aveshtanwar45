@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;		//This code is the test code.
 int main()
 {
 	int choice;
